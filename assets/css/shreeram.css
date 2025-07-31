@@ -1,0 +1,28 @@
+.intro1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 75%), rgba(0, 0, 0, 54%)),
+    url(../img/background1.jpg);
+  color: white;
+  text-align: center;
+}
+
+.mission {
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 15px;
+  box-shadow: 0px 0px 5px #ccc4c4;
+  transition: all 0.3s ease-in;
+  margin-bottom: 30px;
+}
+
+.height {
+  height: 340px;
+}
+
+.effect :hover {
+  border-color: rgba(0, 0, 0, 0.347);
+}
+
+.same {
+  height: 323px;
+  width: 390px;
+}
